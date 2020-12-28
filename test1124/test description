@@ -1,0 +1,15 @@
+Vehicle setting:
+veh1: HV, veh2: AV, veh3: AV, veh4: HV, veh5: HV.
+
+Test setting:
+test1: cruising 55mph
+test2: cruising 55mph
+test3： cruising 50mph
+test4: cruising 50,ph
+test5: oscillation 55-45mph
+test6: oscillation 55-45mph
+test7: oscillation 55-50mph
+test8: oscillation 55-50mph
+test9: oscillation 55-40mph
+test10: oscillation 55-40mph
+
