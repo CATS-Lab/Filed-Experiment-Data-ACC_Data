@@ -13,3 +13,8 @@ test8: oscillation 55-50mph
 test9: oscillation 55-40mph
 test10: oscillation 55-40mph
 
+Data structure:
+Column 2: time (s)
+Column 3: longitude (deg)
+Column 4: latitude (deg)
+Column 5: speed (m/s)
