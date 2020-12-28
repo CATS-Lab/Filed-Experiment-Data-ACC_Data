@@ -1,0 +1,9 @@
+Vehicle setting:
+veh1: HV, veh2: AV, veh3: AV, veh4: HV, veh5: HV.
+
+Test setting:
+test1: cruising 35mph
+test2: cruising 35mph
+test3: ocsillation 35-20mph
+test4: ocsillation 35-20mph
+test5: AV + HV
