@@ -6,4 +6,10 @@ test1: cruising 35mph
 test2: cruising 35mph
 test3: ocsillation 35-20mph
 test4: ocsillation 35-20mph
-test5: AV + HV
+test5: ocsillation 35-20mph
+
+Data structure:
+Column 2: time (s)
+Column 3: longitude (deg)
+Column 4: latitude (deg)
+Column 5: speed (m/s)
