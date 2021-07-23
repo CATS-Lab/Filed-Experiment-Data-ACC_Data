@@ -12,12 +12,3 @@ Li, Q., Li, X., Yao, H., and Liang, Z., 2021. Automated Vehicle Identification B
 Shi, X., Yao, H., Liang, Z. and Li, X., 2021. An Empirical Study on Fuel Consumption of Commercial Automated Vehicles (Under review). Preprint: https://doi.org/10.13140/RG.2.2.22363.90407
 
 Due to the limited upload size for each file, some datasets are uploaded partially for illustration purposes. Contact xiaoweishi@usf.edu if you want to request the complete datasets or have any questions regarding the datasets.
-
-
-Q & A:
-Q1: I tried to convert the GPS time. But, I could not totally get the converted regular time in excel file. Is there quick cleaning/conversion process for the GPS time?
-
-The uploaded datasets are with a frequency of either 10hz or 1hz. So, the front digits of GPS time are the same and are meaningless for analysis. You can delete them to facilitate the conversion process. For example, for 2103:016382.000, you can delete the 2103:01 since the duration of each dataset is less than one hour. 
-
-Q2: What is the meaning of SoG?
-It is the abbreviation for Speed over Ground.
