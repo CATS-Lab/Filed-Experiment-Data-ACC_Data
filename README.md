@@ -1,4 +1,4 @@
-# Filed Experiment Data-ACC_Data
+# Filed Experiment Data-ACC Data
 CATS Lab ACC data is the car-following trajectory dataset including both mix traffic and pure AV traffic.
 
 Supported reserach:
